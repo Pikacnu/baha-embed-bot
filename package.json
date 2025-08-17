@@ -1,0 +1,23 @@
+{
+  "name": "message-saver-bot",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun index.ts",
+    "dev": "bun --watch index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.74",
+    "cheerio": "^1.1.2",
+    "discord.js": "^14.21.0",
+    "marked": "^16.1.1",
+    "shiki": "^3.9.1"
+  }
+}

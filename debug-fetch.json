@@ -1,0 +1,2328 @@
+{
+  "postInfo": {
+    "BSNID": 18673,
+    "subBSNID": 0,
+    "postId": 202515,
+    "type": 1
+  },
+  "postData": {
+    "content": [
+      {
+        "header": {
+          "title": "【1.21 Boss戰】自然災害《Natural disaster》 - v1.5重大更新！中文版出來咯！",
+          "author": {
+            "name": "小冰鳥owo",
+            "url": "https://home.gamer.com.tw/Gemini2005"
+          },
+          "date": ""
+        },
+        "body": {
+          "lines": [
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【前言 - 介紹】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "warp",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "這是一張以自然災害作為主題的boss戰地圖，源發自",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2F%40Plumwriter",
+                    "content": "韓國曲師：Plum",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "content": "的《自然災害》音樂系列",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "相較於先前的作品",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fforum.gamer.com.tw%2FC.php%3Fbsn%3D18673%26snA%3D200892",
+                    "content": "《芒霜之戰》",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "content": "有了更多的boss、獎勵、引導還有挑戰。",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "自然災害的遺址遍布各地，玩家配上適合他們的職責；",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "戰士",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "射",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "content": "擊",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "援助",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "恩",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "content": "護",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "防禦",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "。",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "遺址內的魔物非同小可，多種不同的特殊機制、白熱化戰場的",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "高峰技能(Peak Spell)",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "；",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "猶如現實世界中，人們面對自然災害的模樣。",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "擊敗魔物獲取",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "自然祝福(Perks)",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "，以及",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "災害協奏(Concerto)",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "；",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "幫助玩家更順遂的突破自然災害，然而全部突破後並未是終點，",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "有可能是另一個開始...?",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "對地圖有任何問題與感想，歡迎在本文底下發文討論、",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "私訊我的",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "Discord：",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "icebirdowo",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "、",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "或者是前往",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fdiscord.gg%2FUMYxwHyRNE",
+                    "content": "MC地圖研製協會(創世聯邦)",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "content": "的相關地圖討論區提問~",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "你會以何種姿態抵禦自然災害呢？一切將由你自己面對。",
+                    "style": {
+                      "bold": true,
+                      "fontSize": "h3"
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "How you will be to defend natural disaster? It's all to you to FACE.",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "type": "warp",
+                "style": {}
+              }
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【場景預覽】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            {
+              "type": "image",
+              "url": [
+                "https://truth.bahamut.com.tw/s01/202408/forum/18673/9b7ece77b0bd18d04edf6bc133034420.JPG",
+                "https://truth.bahamut.com.tw/s01/202408/forum/18673/499ec186b81a303d98fbc26a98d81498.JPG",
+                "https://truth.bahamut.com.tw/s01/202408/forum/18673/a714abb84357bd1ebaff944683fe2d55.JPG",
+                "https://truth.bahamut.com.tw/s01/202408/forum/18673/0782d9aaaa002378e767b64f181a0829.JPG"
+              ],
+              "style": {}
+            },
+            {
+              "type": "image",
+              "url": [
+                "https://truth.bahamut.com.tw/s01/202411/forum/18673/400b327a0afa4c6e7a6bb4c5b654cd91.JPG"
+              ],
+              "style": {}
+            },
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【實機展示】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            {
+              "type": "image",
+              "url": [
+                "https://truth.bahamut.com.tw/s01/202408/forum/18673/7146dc756fc8e2ce3062cacb5b9aabec.JPG",
+                "https://truth.bahamut.com.tw/s01/202411/forum/18673/c32cc54dd9a7831299221fdfe6536582.JPG"
+              ],
+              "style": {}
+            },
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【宣傳片】",
+                      "style": {
+                        "bold": true,
+                        "fontSize": "h2"
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/embed/FBH13478JKU?wmode=transparent",
+              "style": {}
+            },
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【地圖特色】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "1.",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "自由選擇挑戰順序",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "的boss戰鬥，挑戰成功會獲得專屬技能(Concerto)",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "content": "2. Boss都有",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "特殊的技能機制",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "，配合戰鬥音樂在特殊段施放「高峰技能」，使激烈的戰鬥白熱化！",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "3.",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "可調整的難度機制",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "，影響自身回血速度跟boss血量，更會影響Boss機制",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "4.",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "五種不同的特殊職業",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "，鐵三角：",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "坦克",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "補師",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "、",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "輸出",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "。豐富多人遊玩體驗",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "5. 使用",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                [
+                  {
+                    "type": "text",
+                    "content": "自訂血量",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ],
+                {
+                  "type": "text",
+                  "content": "系統，血量隨著人數增加，讓多人不會成為數值輾壓的手段",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "content": "6. 參考古老CTM：The painter的紀念碑模式，自由擺放你想要的樣子",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【地圖資訊】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "版本：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "1.21 ~ 1.21.1",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "目標：9個Boss",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "時間：1.5~2小時",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "難度：6/10 (因人而異)",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "人數：1~5人，",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "6人以上會地圖自毀",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "音量：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "方塊",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ],
+                  {
+                    "type": "text",
+                    "content": "、",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "語音",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ],
+                  {
+                    "type": "text",
+                    "content": "、",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "唱片機音階盒",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ],
+                  {
+                    "type": "text",
+                    "content": "請打開至自己合適的音量",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "(多人若開獨立伺服器，請確保開啟指令方塊)",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "確保遊戲正常運行的情況下，可以使用任何輔助模組(例如顯示狀態效果、Essentials、任何型態的連點器)，連點器唯獨參與「自然災害的救星」的審核時不可用。",
+                        "style": {
+                          "bold": true,
+                          "underline": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【地圖載點】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "地圖檔：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F7a5roexq5qv53pm",
+                    "content": "《自然災害》Natural disaster v1.5",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "資源包/材質包：(多人限定，單人自動安裝)：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fwg76rewujf3gmvd",
+                    "content": "resource of Natural disaster v1.5",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "content": "資料包(用於修復/更新，只需覆蓋地圖檔的datapacks資料夾即可)：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "暫無",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "fontSize": "h3"
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "自然災害指南：",
+                    "style": {
+                      "bold": true,
+                      "fontSize": "h2"
+                    }
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1yApiHzIFTfyHPDBiCEcrxOIS9E6NK7N1XYi4btlGRd0%2Fedit%3Fusp%3Dsharing",
+                    "content": "點我查看",
+                    "style": {
+                      "bold": true,
+                      "fontSize": "h2"
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "很早就出了，只是我塞的挺不明顯(推文上)，建議搭配boss敘述服用~",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "2025/05/08 更新v1.5 (此次更新推文)",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "新增中文語言以及各種boss的改動",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "warp",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "content": "(會有點小BUG，修好之後再不急不慢的偷偷更新ewe)",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【製作人員】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "總召、指令編寫、音樂挑選、建築、整體構思",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "小冰鳥Icebird",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "建築",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "Walkman(狗勾)、米格(MG)、邊緣餅乾、天天Davleek",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "傷害顯示、人偶、自訂血量指令包",
+                      "style": {
+                        "fontSize": "h3",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "紙圓Paper_Cricel",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "這個指令包是這張地圖的骨幹，沒有他地圖很有可能完成不了",
+                      "style": {
+                        "bold": true,
+                        "fontSize": "h3"
+                      }
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "<3",
+                      "style": {
+                        "bold": true,
+                        "fontSize": "h3"
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "content": "【音樂版權說明】",
+                      "style": {
+                        "fontSize": "h2",
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "warp",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "本地圖所有背景音樂均為",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2F%40Plumwriter",
+                    "content": "Plum - Melodic Artist",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "content": "製作，該曲師在個人簡介表明曲目均可自由的、非營利的進行二次創作，本地圖也不會進行任何營利行為，但會在正式版以及現在，標上曲師的credit。",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "本地圖使用的音樂：",
+                    "style": {
+                      "fontSize": "h3",
+                      "bold": true
+                    }
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPojjikO8zb4",
+                  "content": "Maelstrom by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMTnilZZ1HTM",
+                  "content": "Tempest by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbOSURZRJ41Y",
+                  "content": "Avalanche by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmYbLY3Z3MGI",
+                  "content": "Volcanic Strike by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx2ZA6bhGN2A",
+                  "content": "Dustwind by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Deakt-RvqgKg",
+                  "content": "Sinkhole by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpw_3q7FoA_M",
+                  "content": "Hardrain by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKLKuldXe054",
+                  "content": "BoltStrike by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9olxOz77qYA",
+                  "content": "Gammy Ray Burst by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjFV4AMGhUlM",
+                  "content": "Knots by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5BdoZlxQDwk",
+                  "content": "슬픈 전설 이야기 by Plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbqhqmCjPv5s",
+                  "content": "Beyond The Timeline by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV1YDhancVaU",
+                  "content": "Timeline by plum",
+                  "style": {}
+                }
+              ],
+              [
+                {
+                  "type": "warp",
+                  "style": {}
+                }
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        {
+                          "type": "text",
+                          "content": "【額外內容 -",
+                          "style": {
+                            "fontSize": "h2",
+                            "bold": true
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "content": "自然災害的救星",
+                          "style": {
+                            "fontSize": "h2",
+                            "bold": true
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "content": "】",
+                          "style": {
+                            "fontSize": "h2",
+                            "bold": true
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "(其實這一開始就有了，只是我想埋一陣子)",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  {
+                    "type": "warp",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "type": "text",
+                    "content": "完成這張地圖的9個boss後，玩家可以選擇選擇再次挑戰指定boss。但是所有boss的血量會提升1.6倍；無論單人、多人，如果玩家通關這種模式的",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  [
+                    {
+                      "type": "text",
+                      "content": "所有困難難度",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "，並且錄影並將影片以巴哈回文/私訊我的",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "Discord：",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "icebirdowo",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "，審核完畢後",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "(確定你是遊玩困難Remake模式且沒有作弊行為)",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "即可在這張地圖擁有屬於自己的雕像，並且冠上",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "「自然災害的救星」\"Savior of Natural Disaster\"",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "content": "的稱號。讓其他下載地圖的人見證你在這張地圖的光輝戰績！",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    {
+                      "type": "warp",
+                      "style": {
+                        "bold": true
+                      }
+                    }
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "「自然災害的救星」",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "名單：",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "warp",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "link",
+                        "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLU6KrHwhNJ7XAf1MCDeEQ2qs8BJ7YbHYb",
+                        "content": "Sansopman_TW",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        {
+                          "type": "text",
+                          "content": "\"這裡是死了200多次的Sansopman_TW，歡迎跟我一樣挑戰無協奏\"",
+                          "style": {
+                            "italic": true,
+                            "bold": true
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        {
+                          "type": "warp",
+                          "style": {
+                            "italic": true,
+                            "bold": true
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    {
+                      "type": "link",
+                      "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.bilibili.com%2Flist%2Fml3585336310%3Fspm_id_from%3D333.1387.0.0%26oid%3D114154694254102%26bvid%3DBV1WvQwYEE9x%26desc%3D0",
+                      "content": "WhiteKL",
+                      "style": {
+                        "bold": true,
+                        "fontSize": "h3"
+                      }
+                    }
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "\"",
+                        "style": {
+                          "italic": true,
+                          "bold": true
+                        }
+                      },
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "I'm so glad that I can play such this map.",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ],
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "Even though that made me die to these bosses about 300 times.",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ],
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "But I still think this is an excellent map like Souls-like.",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ],
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "I look forward to Icebird making next map.",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ],
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "by the way, The \"Dustwind\" is so pleasant.\"",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        [
+                          {
+                            "type": "text",
+                            "content": "(我很榮幸可以玩到這張地圖。即便我被這些boss搞死了快300次，但我覺得這次一張很棒的類魂系地圖。期待冰鳥的下張地圖。另外，沙塵暴boss非常的令人愉快呢。)",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          },
+                          {
+                            "type": "warp",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          },
+                          {
+                            "type": "warp",
+                            "style": {
+                              "italic": true,
+                              "bold": true
+                            }
+                          }
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                {
+                  "type": "link",
+                  "url": "https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fyoutube.com%2Fplaylist%3Flist%3DPLUDDW5toOKXANltQ894l2pwrerHoBgG6b%26si%3DPhR3YihHhsVrjxfM",
+                  "content": "Yeelok、MomoNICE、Dark_Archmage813、kittenowo",
+                  "style": {}
+                }
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "那群傢伙很懶，什麼都沒留下 (有了再補)",
+                        "style": {
+                          "bold": true,
+                          "italic": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        {
+                          "type": "warp",
+                          "style": {
+                            "italic": true,
+                            "bold": true
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      [
+                        {
+                          "type": "warp",
+                          "style": {
+                            "italic": true,
+                            "bold": true
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "然後沒了ewe",
+                        "style": {
+                          "fontSize": "h2",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "困難+再次挑戰模式是原本",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "普通模式血量的2倍+困難額外的機制",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "。困難模式只要熟悉每個技能的處理方式就可以過；死因我想很大部分都是吃到很多次不該吃的傷害",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "(比如說6號天坑的",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "近戰攻擊、或者各種可以躲避的地板技能、又或者是被1號漩渦的boss的高峰技能捲進裡面了...)",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "。不過挑戰這個這些應該是基本要做到的，只是從普通或簡單模式通關的想挑戰需要留意困難模式帶來的變化，介紹都有額外標註。",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "死亡後可以多思考該怎麼處理技能，包括帶位、戰術、技能(Concerto或武器技能)的使用，而不是以「你不能要求每個玩家都要做到完美」一說展現自身的低思考意願、理解淺薄與自以為是，這點無論在遊戲跟現實都非常重要。",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "有些玩家一開口我就知道他遊戲理解程度多少",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "warp",
+                        "style": {
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "「",
+                        "style": {
+                          "bold": true,
+                          "fontSize": "h3"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "成者找方法",
+                        "style": {
+                          "bold": true,
+                          "fontSize": "h3"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "；",
+                        "style": {
+                          "bold": true,
+                          "fontSize": "h3"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "content": "敗者找理由",
+                        "style": {
+                          "bold": true,
+                          "fontSize": "h3"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "。」",
+                        "style": {
+                          "bold": true,
+                          "fontSize": "h3"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "Successful people look for ways; failures look for excuses.",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    [
+                      {
+                        "type": "text",
+                        "content": "祝各位再抵抗自然災害的路途中「百折不撓，屢仆屢起！」",
+                        "style": {
+                          "fontSize": "h3",
+                          "bold": true
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    {
+                      "type": "warp",
+                      "style": {}
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}
