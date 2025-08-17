@@ -163,6 +163,7 @@ const commands: Array<
       }
     },
   ],
+  /*
   [
     'combineCurrentMessageImages',
     new ContextMenuCommandBuilder()
@@ -253,7 +254,7 @@ const commands: Array<
         content: `Combined image sent: ${combinedMessage.url}`,
       });
     },
-  ],
+  ],*/
 ];
 
 client.on('interactionCreate', async (interaction) => {
