@@ -42,13 +42,15 @@ export async function fetchData({ url, session }: FetchOptions): Promise<{
     type: typeDetection(url),
   };
 
-  const request = fetch(url, {
+  const response = await fetch(process.env.PROXY_URL!, {
+    method: 'POST',
     headers: {
       userAgent:
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+      'XX-APIKey': process.env.PROXY_APIKEY!,
+      'XX-URL': url,
     },
   });
-  const response = await request;
   if (response.status !== 200) throw Error('Request Failed');
   const htmlPlainText = await response.text();
 

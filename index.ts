@@ -101,19 +101,15 @@ const commands: Array<
       const componentGroups = splitComponentsByLength(components);
 
       if (componentGroups.length > 0) {
+        const first = componentGroups.shift()!;
+        await interaction.reply({
+          components: [...first.map((c) => c.toJSON())],
+          flags: MessageFlags.IsComponentsV2,
+        });
         for (const group of componentGroups) {
           const customId = `embed-${interaction.user.id}-${Date.now()}`;
-          const deleteButton = new ActionRowBuilder().addComponents(
-            new ButtonBuilder()
-              .setCustomId(customId)
-              .setLabel('Delete')
-              .setStyle(ButtonStyle.Danger),
-          );
           await interaction.followUp({
-            components: [
-              ...group.map((c) => c.toJSON()),
-              deleteButton.toJSON(),
-            ],
+            components: [...group.map((c) => c.toJSON())],
             flags: MessageFlags.IsComponentsV2,
           });
         }
